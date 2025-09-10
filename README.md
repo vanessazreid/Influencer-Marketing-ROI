@@ -60,7 +60,7 @@ The goal is to guide marketing decisions by identifying high-performing platform
 ## 📁 Repository Contents
 - `influencer_marketing_analysis.ipynb` – Jupyter Notebook with complete analysis  
 - `data/` – Dataset used for the project  
-- `assets/` – Screenshots and visualizations  
+- `presentation` – Technical presentation reviewing Jupyter Notebook (made in Canva)
 
 ---
 
